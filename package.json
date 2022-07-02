@@ -1,0 +1,23 @@
+{
+  "name": "live2d-example",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/"
+  ],
+  "keywords": [],
+  "description": "live2d开发例子项目.",
+  "author": "SystemLighht",
+  "license": "MIT",
+  "homepage": "https://github.com/SystemLight/live2d-example#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SystemLight/live2d-example"
+  },
+  "bugs": {
+    "url": "https://github.com/SystemLight/live2d-example/issues"
+  },
+  "engines": {
+    "node": ">=16.15.0"
+  }
+}
